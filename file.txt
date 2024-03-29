@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 3COMM in br2
+=======
+1COMM in br1
+2COMM in br1
+3COMM in br1
+>>>>>>> br1
